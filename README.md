@@ -1,7 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/>
-### 🔭 I’m currently working on portfolio website.
 
-<h1 align="center">Hi 👋, I'm Bibek Magar</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/>, I'm Bibek Magar</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beevekmgr&label=Profile%20views&color=0e75b6&style=flat" alt="beevekmgr" /> </p>
