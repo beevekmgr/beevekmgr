@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/>
 ### 🔭 I’m currently working on portfolio website.
 
 <!--
